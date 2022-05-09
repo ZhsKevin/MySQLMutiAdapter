@@ -1,0 +1,2 @@
+# MySQLMutiAdapter
+MySQL相关mapper自动扫描适配器 将mapper中mysql语法转化成SQLServer/Oracle/PostGreeSQL相关语法
